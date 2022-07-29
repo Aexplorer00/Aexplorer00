@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aexplorer00
 - 👀 I’m interested in ... python
-- 🌱 I’m currently learning ...js
+- 🌱 I’m currently learning ... Azure and Azure devops
 - 💞️ I’m looking to collaborate on ...more advanced technologies
 - 📫 How to reach me ...
 
